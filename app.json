@@ -1,0 +1,6 @@
+{
+  "name": "MVC deploying at Heroku: PHP",
+  "description": "Je suis Max Power!",
+  "repository": "https://github.com/maxpower12/mvc",
+  "addons": []
+}
